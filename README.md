@@ -7,6 +7,8 @@
 
 Text Document Analyzer is a powerful Streamlit application for correcting grammar in documents while preserving formatting. The application uses language models to analyze and correct grammar errors in DOCX, DOC, and TXT files while maintaining the original document structure, formatting, tables, and other elements.
 
+Sample App link - ![StreamLit](https://textdocanalyer.streamlit.app/)
+
 ## Features
 
 - **Grammar Error Correction:** Automatically detects and corrects various types of grammar errors while preserving the original meaning

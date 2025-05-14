@@ -9,9 +9,8 @@ Text Document Analyzer is a powerful Streamlit application for correcting gramma
 
 App link - https://textdocanalyer.streamlit.app/
 
-**Live Demo
-🌐 Try the live demo here!
-**
+[Link Text](https://example.com)
+
 Note: This application is hosted on Streamlit Cloud and may take a few seconds to load initially.
 
 

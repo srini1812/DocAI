@@ -111,6 +111,16 @@ The solution provides configuration for:
 
 Professional contributions are welcome. Please submit Pull Requests through standard channels.
 
+## Requirements.txt
+- streamlit
+- python-docx
+- pandas
+- matplotlib
+- plotly
+- numpy
+- requests
+- lxml
+
 ## Contact Information
 
 - Developer: Srinivas K M

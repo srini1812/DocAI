@@ -111,15 +111,6 @@ The solution provides configuration for:
 
 Professional contributions are welcome. Please submit Pull Requests through standard channels.
 
-## Licensing Information
-
-This solution is provided under the MIT License - please refer to the LICENSE file for complete details.
-
-## Acknowledgments
-
-- Recognition to the Streamlit development team for their robust framework
-- This enterprise solution leverages language models for grammar correction capabilities
-
 ## Contact Information
 
 - Developer: Srinivas K M

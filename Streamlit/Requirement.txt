@@ -1,0 +1,43 @@
+# Core dependencies
+streamlit
+python-docx
+pandas
+matplotlib
+plotly
+numpy
+requests
+
+# XML processing
+lxml
+
+# File handling
+pathlib
+python-io
+
+# Logging
+logging
+
+# Data manipulation
+collections2
+Counter
+copy
+
+# Temp file handling
+tempfile
+shutil
+
+# Compression
+zipfile
+
+# Regex
+re
+
+# Time handling
+time
+
+# JSON processing
+json
+
+# Optional dependencies (for additional features)
+nltk
+scikit-learn

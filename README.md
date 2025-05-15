@@ -120,7 +120,3 @@ Professional contributions are welcome. Please submit Pull Requests through stan
 - numpy
 - requests
 - lxml
-
-## Contact Information
-
-- Developer: Srinivas K M

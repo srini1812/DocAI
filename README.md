@@ -1,11 +1,11 @@
-# Text Document Analyzer
+# Doc AI
 ![Grammar Correction](https://img.shields.io/badge/Grammar-Correction-blue)
 ![Document Processing](https://img.shields.io/badge/Document-Processing-green)
 ![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)
 
 ## Executive Summary
 
-Text Document Analyzer is an enterprise-grade Streamlit application designed to enhance document quality by correcting grammatical errors while maintaining formatting integrity. The solution leverages advanced language models to analyze and improve DOCX, DOC, and TXT files while preserving document structure, formatting elements, tables, and other components essential for professional documentation.
+Doc AI is an enterprise-grade Streamlit application designed to enhance document quality by correcting grammatical errors while maintaining formatting integrity. The solution leverages advanced language models to analyze and improve DOCX, DOC, and TXT files while preserving document structure, formatting elements, tables, and other components essential for professional documentation.
 
 Access the application: [TextDocumentAnalyzer](https://textdocanalyer.streamlit.app/)
 
